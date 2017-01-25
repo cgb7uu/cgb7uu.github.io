@@ -1,0 +1,10 @@
+<html>
+<h1> Hello World! </h1>
+<p> My name is cgb7uu! </p>
+<style>
+  body {
+  background-color: #93B874;
+  }
+</style>
+<marquee> HTML is so fun!!!!! I love Computer Science! </marquee>
+</html>
